@@ -22,7 +22,7 @@ Check out [API LIVE DEMO](https://backend-budgetbox.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/USBudgetBox/BugetBox.git
+git clone https://github.com/AishwaryaShetty7/Budget-Box.git
 ```
 
 2. Backend setting
